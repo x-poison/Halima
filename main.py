@@ -7,7 +7,7 @@ import requests
 import telebot
 import openai
 import re
-openai.api_key = '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'
+openai.api_key = ''
 
 
 bot = telebot.TeleBot('5627044029:AAE7fAZGpds2Jf2InRSzeaCHWQk-6i0BwHA')
