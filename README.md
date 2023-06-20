@@ -10,7 +10,7 @@
     <a href="https://t.me/teampoisonmods"> Support Chat </a> 
 </p>
     
-# Tiana Bot
+# Halima Bot
 #### Halima is a Telegram group managment bot made using Telegraf and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
 
@@ -92,7 +92,7 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Tiana Bot:
+Special thanks to these amazing projects/people which/who help power Halima Bot:
 
 - [Owner](https://t.me/kesandy)
 
