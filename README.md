@@ -4,10 +4,10 @@
     A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telegraf.
 </h4>
 <p align="center">
-    <a href="https://t.me/Tiana_Prince_Bot"> Ready-To-Use Bot </a> •
-    <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
-    <a href="https://t.me/TianaxUpdates"> Update Channel </a> •
-    <a href="https://t.me/TianaxSupport"> Support Chat </a> 
+    <a href="https://t.me/halima"> Ready-To-Use Bot </a> •
+   <!-- <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •-->
+    <a href="https://t.me/gamer_kevin"> Update Channel </a> •
+    <a href="https://t.me/teampoisonmods"> Support Chat </a> 
 </p>
     
 # Tiana Bot
@@ -25,7 +25,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
+Can be found on Telegram as [@Halima-Bot](https://t.me/halima_)
 
 ## Deployment
 First Step!
@@ -33,7 +33,7 @@ First Step!
 Star ⭐ the repository!!
 It really motivates me to continue this project further
 
-Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed Description and Setup Guide on deploying Bot.
+<!--Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed Description and Setup Guide on deploying Bot.-->
 
 > Click on buttons to expand!
 <details>
@@ -59,7 +59,7 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 <p><a href="https://heroku.com/deploy?template=https://github.com/Prince-Botz/TianaBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 <h4>Click the button below to deploy Tiana Music Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Prince301102/Tiana-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
+<p><a href="https://heroku.com/deploy?template=https://github.com/x-poison/Halima"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
 </details>
 
 <details>
@@ -68,8 +68,8 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 
 
 ```console
-$ git clone https://github.com/Prince-Botz/TianaBot
-$ cd TianaBot
+$ git clone https://github.com/x-poison/Halima
+$ cd Halima
 $ pip3 install -U -r requirements.txt
 $ cp sample.env .env
 ```
@@ -82,9 +82,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
+- [Telegram Channel](https://t.me/gamer_kevin)
+- [Telegram Support Group](https://t.me/teampoisonmods)
+- [Contact Owner](https://t.me/kesandy)
 
 ## License
 
@@ -96,7 +96,7 @@ Special thanks to these amazing projects/people which/who help power Tiana Bot:
 
 - [Owner](https://t.me/kesandy)
 
-
+</br>
 
 
 <p align="center">
